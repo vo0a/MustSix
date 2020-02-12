@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_livefeed"
+        android:icon="@drawable/livefeed"
+        android:enabled="true"
+        android:title="@string/livefeed" />
+    <item
+        android:id="@+id/action_daily"
+        android:icon="@drawable/daily"
+        android:enabled="true"
+        android:title="@string/daily"/>
+    <item
+        android:id="@+id/action_home"
+        android:icon="@drawable/home"
+        android:enabled="true"
+        android:title="@string/home"/>
+    <item
+        android:id="@+id/action_dogs"
+        android:icon="@drawable/dogs"
+        android:enabled="true"
+        android:title="@string/dogs"/>
+    <item
+        android:id="@+id/action_card"
+        android:icon="@drawable/card"
+        android:enabled="true"
+        android:title="@string/card"/>
+</menu>
