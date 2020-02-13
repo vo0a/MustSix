@@ -11,12 +11,12 @@ import androidx.fragment.app.Fragment;
 
 import com.example.mustsix.R;
 
-public class DailyFragment extends Fragment {
+public class MyHavenFragment extends Fragment {
 
     @Nullable
     @Override
     public View onCreateView(@NonNull LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
-        View view = LayoutInflater.from(getActivity()).inflate(R.layout.fragment_daily, container, false);
+        View view = LayoutInflater.from(getActivity()).inflate(R.layout.fragment_myhaven, container, false);
         return view;
     }
 }

@@ -1,9 +1,8 @@
 <resources>
     <string name="app_name">mustsix</string>
     <string name="livefeed">live feed</string>
-    <string name="daily">daily dog</string>
-    <string name="home">my haven</string>
-    <string name="dogs">my dogs</string>
-    <!--TODO: card 이름 수정-->
-    <string name="card">detail</string>
+    <string name="myhaven">my haven</string>
+    <string name="home">home</string>
+    <string name="mydogs">my dogs</string>
+    <string name="cards">cards</string>
 </resources>

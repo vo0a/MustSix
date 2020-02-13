@@ -11,12 +11,12 @@ import androidx.fragment.app.Fragment;
 
 import com.example.mustsix.R;
 
-public class CardFragment extends Fragment {
+public class MyDogsFragment extends Fragment {
 
     @Nullable
     @Override
     public View onCreateView(@NonNull LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
-        View view = LayoutInflater.from(getActivity()).inflate(R.layout.fragment_card, container, false);
+        View view = LayoutInflater.from(getActivity()).inflate(R.layout.fragment_mydogs, container, false);
         return view;
     }
 }

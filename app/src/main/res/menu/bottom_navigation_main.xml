@@ -6,23 +6,23 @@
         android:enabled="true"
         android:title="@string/livefeed" />
     <item
-        android:id="@+id/action_daily"
-        android:icon="@drawable/daily"
-        android:enabled="true"
-        android:title="@string/daily"/>
-    <item
         android:id="@+id/action_home"
         android:icon="@drawable/home"
         android:enabled="true"
         android:title="@string/home"/>
     <item
-        android:id="@+id/action_dogs"
-        android:icon="@drawable/dogs"
+        android:id="@+id/action_myhaven"
+        android:icon="@drawable/myhaven"
         android:enabled="true"
-        android:title="@string/dogs"/>
+        android:title="@string/myhaven"/>
     <item
-        android:id="@+id/action_card"
-        android:icon="@drawable/card"
+        android:id="@+id/action_mydogs"
+        android:icon="@drawable/mydogs"
         android:enabled="true"
-        android:title="@string/card"/>
+        android:title="@string/mydogs"/>
+    <item
+        android:id="@+id/action_cards"
+        android:icon="@drawable/cards"
+        android:enabled="true"
+        android:title="@string/cards"/>
 </menu>
