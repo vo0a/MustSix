@@ -14,11 +14,10 @@
         <RelativeLayout
             android:layout_width="match_parent"
             android:layout_height="match_parent">
-            <!--TODO: logo 이미지 변경-->
             <ImageView
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:src="@drawable/logo_title"></ImageView>
+                android:src="@drawable/logo"></ImageView>
         </RelativeLayout>
     </androidx.appcompat.widget.Toolbar>
 
